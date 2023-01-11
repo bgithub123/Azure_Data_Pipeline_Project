@@ -6,4 +6,5 @@ Architecture
 
 Details
 
-<img width="391" alt="Project2_RequirementDoc(1)" src="https://user-images.githubusercontent.com/116079819/211910840-e023bb37-9351-4d11-a6ba-e24b7c2e0c3e.PNG">
+![details](https://user-images.githubusercontent.com/116079819/211914739-b44bef13-c4fe-43a9-b547-723f525162e7.JPG)
+
